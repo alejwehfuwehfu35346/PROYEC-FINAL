@@ -1,0 +1,82 @@
+.fila{
+	text-align:center;
+}
+.fila2{
+	text-align:center;
+}
+
+
+
+
+
+.letra{
+	font-family: 'Bebas Neue', sans-serif;
+}
+.diseño2{
+	font-family: 'Saira Condensed', sans-serif;
+}
+
+
+
+.diseño{
+	display:flex;
+	justify-content: center;
+}
+.tamaño{
+	widht: 350px;
+	height: 250px;
+	margin:0 30px;
+}
+
+h1{
+    color:rgb(0, 183, 255)
+}
+body{
+    background-image: url(img.jpg);
+}
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #ff1b1b;
+	color: #ffffff;
+	padding: 20px;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+nav a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+main {
+	margin: 20px;
+}
+
+section {
+	margin-bottom: 20px;
+}
+
+h1, h2 {
+	font-weight: normal;
+}
+
+footer {
+	background-color: #ff0062;
+	color: #dde000;
+	padding: 20px;
+	text-align: center;
+}
